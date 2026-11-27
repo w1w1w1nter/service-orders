@@ -1,0 +1,17 @@
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\bin\Debug\net11.0\ServiceOrders.exe
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\bin\Debug\net11.0\ServiceOrders.deps.json
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\bin\Debug\net11.0\ServiceOrders.runtimeconfig.json
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\bin\Debug\net11.0\ServiceOrders.runtimeconfig.dev.json
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\bin\Debug\net11.0\ServiceOrders.dll
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\bin\Debug\net11.0\ServiceOrders.pdb
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\obj\Debug\net11.0\ServiceOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\obj\Debug\net11.0\ServiceOrders.AssemblyInfoInputs.cache
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\obj\Debug\net11.0\ServiceOrders.AssemblyInfo.cs
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\obj\Debug\net11.0\ServiceOrders.csproj.CoreCompileInputs.cache
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\obj\Debug\net11.0\ServiceOrders.sourcelink.json
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\obj\Debug\net11.0\ServiceOrders.dll
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\obj\Debug\net11.0\refint\ServiceOrders.dll
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\obj\Debug\net11.0\ServiceOrders.pdb
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\obj\Debug\net11.0\ServiceOrders.genruntimeconfig.cache
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\obj\Debug\net11.0\ref\ServiceOrders.dll
+C:\Users\de_w1ntery\Documents\service-orders\ServiceOrders\obj\Debug\net11.0\ServiceO.C892CD78.Up2Date
